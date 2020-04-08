@@ -5,5 +5,5 @@ Assim, usuários podem ver incidentes, tanto na Web quanto no Mobile, que gostar
 Conhecimentos aplicados:
 NodeJS,
 ReactJS,
-React Native,
+React Native e
 Banco de dados SQLite3.
