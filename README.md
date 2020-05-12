@@ -7,3 +7,5 @@ NodeJS,
 ReactJS,
 React Native e
 Banco de dados SQLite3.
+
+Obs: ao utilizar o QR code com expo, atualizar no arquivo mobile/src/services/api.js o endereço de IP para corresponder ao PC em uso.
